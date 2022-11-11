@@ -166,7 +166,7 @@ Some resource types have additional restrictions on their names.
 
 ## UID
 
-{{< glossary_definition term_id="uid" length="all" >}}
+{{< glossary_definition term_id="uids" length="all" >}}
 
 <!--
 Kubernetes UIDs are universally unique identifiers (also known as UUIDs).
